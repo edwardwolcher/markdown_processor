@@ -6,8 +6,8 @@ Command line use should include the following arguments:
 
 - a `.md` markdown file
 - a `.css` css file (optional)
-- an output filename ending with .html (if html is desired) and/or
-- an output filenname ending with .pdf (if pdf is desired)
+- an output filename ending with `.html` (if html is desired) and/or
+- an output filenname ending with `.pdf` (if pdf is desired)
 
 a standard command would be:
 
