@@ -1,0 +1,58 @@
+body {
+  margin: 40px auto;
+  max-width: 850px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Open Sans", sans-serif;
+}
+
+h2,
+h3 {
+  font-size: 1rem;
+}
+
+h1 {
+  display: inline;
+}
+
+p:first-of-type {
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  text-transform: uppercase;
+  padding: 2px 5px;
+  margin: 2em 0 1em 0;
+  background-color: #333;
+  color: white;
+}
+
+blockquote {
+  float: right;
+  width: fit-content;
+  margin: 0;
+  padding: 2px 8px;
+  border-left: 5px solid #888;
+  border-radius: 2px;
+  background: #eee;
+}
+
+blockquote p {
+  display: inline;
+}
+
+p,
+li,
+a {
+  font-family: "Crimson Text", serif;
+  text-align: justify;
+}
+
+h3 + p {
+  border-left: 5px solid #888;
+  padding-left: 0.5em;
+}
