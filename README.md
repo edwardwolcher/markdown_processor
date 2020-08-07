@@ -1,6 +1,6 @@
 # Markdown to PDF/HTML Python Package
 
-This is a simple python script designed to input some markdown and css and output an html and/or pdf file. It uses the well maintained python markdown and pdfkit libraries and creates a simple workflow combining the two.
+This is a simple python script designed to input some markdown and css and output an html and/or pdf file. It uses the well maintained python markdown and pdfkit libraries and creates an easy workflow combining the two.
 
 Command line use should include the following arguments:
 
